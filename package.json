@@ -1,0 +1,11 @@
+{
+    "name": "com.dminsky.nicetools",
+    "version": "0.0.1",
+    "displayName": "Nice Tools",
+    "licensesUrl": "https://github.com/DMinsky/nice_tools/blob/main/LICENSE",
+    "author": {
+        "name": "Dmitry Minsky",
+        "email": "me@dminsky.com",
+        "url": "https://dminsky.com"
+    }
+}
